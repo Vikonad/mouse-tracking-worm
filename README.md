@@ -29,6 +29,6 @@ python main.py
 
 ### Resources:
 Python Arcade Documentation: https://api.arcade.academy/en/latest/
-YouTube Demo: soon
+YouTube Demo: https://youtu.be/yg8LTguKtUw
 
 Feel free to fork this repository, open issues, and submit pull requests. Let's make learning Python fun and interactive!

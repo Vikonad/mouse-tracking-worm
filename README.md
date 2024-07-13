@@ -25,7 +25,8 @@ python main.py
 ```
 
 ### Screenshots:
-![screenshot](https://github.com/Vikonad/mouse-tracking-worm/assets/133092049/fe6f3d82-f35c-4e32-b928-844dbb7c0e72)
+![Untitled](https://github.com/user-attachments/assets/1182c13c-68a8-4311-86e0-b6d27365a88b)
+
 
 ### Resources:
 Python Arcade Documentation: https://api.arcade.academy/en/latest/

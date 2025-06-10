@@ -1,4 +1,4 @@
-this creature follows you mouse cursor!! (written in Python and Arcade framework)
+this creature follows your mouse cursor!! (written in Python and Arcade framework)
 
 This repository contains the source code for a simple Python Arcade project where a worm follows the mouse cursor. It's an engaging way to learn about mouse events and smooth movement in Python.
 
